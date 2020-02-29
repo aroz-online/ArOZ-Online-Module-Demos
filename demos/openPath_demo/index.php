@@ -21,6 +21,7 @@ include_once('../auth.php');
 <br>
 <div class="ts container">
 	<h3>Path Opening Demo</h3>
+	<p>Please run this demo under Virtual Desktop Environment as a Float Window</p>
 	<div class="ts segment">
 		<h4>Open Files</h4>
 		<p>Open the media files with default ArOZ Online Modules</p>
