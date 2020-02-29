@@ -1,1 +1,1 @@
-A floatWindow demo for getting started with VDI modes in Web Desktop Environment
+A demo for getting started with File Selector API
